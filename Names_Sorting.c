@@ -8,7 +8,7 @@ int main() {
         "Alice Benson", "Bob Smith", "Charlie Brown", "Daisy Miller",
         "Ethan David", "Fiona Harris", "George Ron", "Hannah White",
         "Isaac Moore", "Julia Taylor", "Daniel Everett Simmons",
-        "MUZIRA Kellia", "Sophia Marie Caldwell", "Olivia Grace Patterson",
+        "Hannah Baker", "Sophia Marie Caldwell", "Olivia Grace Patterson",
         "Nathaniel Joseph Carter", "Emily Rose Montgomery",
         "Christopher Dean Holloway", "Victoria Lynn Shepherd",
         "Jonathan Miles Harrington", "Isabella Claire Reynolds"
